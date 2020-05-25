@@ -5,16 +5,16 @@ body {
 
 .introduction {
     position: relative;
-    display: inline-block;
+    text-align: center;
+    color: white;
 }
 
 .introductionText {
     position: absolute;
-    top: 50%;
-    left: 10%;
+    top: 5%;
+    left: 5%;
+    width: 50%;
     text-align: left;
-    width: 60%;
-    color: white;
 }
 
 nav ul, footer ul {
