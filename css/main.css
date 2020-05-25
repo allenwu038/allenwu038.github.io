@@ -5,14 +5,14 @@ body {
 
 .introduction {
     position: relative;
-    text-align: center;
+    display: inline-block;
 }
 
 .introductionText {
     position: absolute;
-    top: 8px;
-    left: 16px;
-    right: 350px;
+    height: 100%;
+    text-align: left;
+    width: 60%;
     color: white;
 }
 
