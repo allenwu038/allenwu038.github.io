@@ -10,7 +10,8 @@ body {
 
 .introductionText {
     position: absolute;
-    height: 100%;
+    top: 50%;
+    left: 10%;
     text-align: left;
     width: 60%;
     color: white;
@@ -34,12 +35,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1em;
+    line-height: 1em;
     color: #333;
 }
 footer {
