@@ -105,9 +105,9 @@ h1 {
 }
 
 p {
-    font-size: calc(3em + 0.5vw);
+    font-size: 3em;
     line-height: 1em;
-    color: #333;
+    color: white ;
 }
 footer {
     border-top: 1px solid #d5d5d5;
