@@ -100,12 +100,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-family: Arial;
-    color: red;   
+    font-family: "Helvetica Nueu", Helvitica, Arial, sans-serif;
+    color: rgb(229, 9, 20);   
 }
 
 p {
-    font-size: 0.5vw;
+    font-size: 1vw;
     line-height: 1em;
     color: #333;
 }
