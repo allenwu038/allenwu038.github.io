@@ -105,7 +105,7 @@ h1 {
 }
 
 p {
-    font-size: calc(1em + 0.5vw);
+    font-size: calc(3em + 0.5vw);
     line-height: 1em;
     color: #333;
 }
