@@ -106,6 +106,7 @@ h1 {
 
 h4 {
     font-size: 2vw;
+    overflow: scroll;
     font-size: 1em;
     line-height: 1em;
     color: white ;
