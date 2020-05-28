@@ -22,10 +22,6 @@ body {
     text-align: left;
 }
 
-path {
-    fill: transparent;
-}
-
 /* 
 CSS the Netflix carousel feature
 Tutorial used found at https://www.raddy.co.uk/blog/netflix-carousel-using-css/
@@ -102,6 +98,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-family: 'Bebas Nueu', Helvetica, Arial, sans-serif;
     color: rgb(229, 9, 20);   
