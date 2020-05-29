@@ -99,11 +99,12 @@ a:hover {
     text-decoration: underline;
 }
 
-.logo {
+logo {
     position: fixed;
     top: 0;
     left: 0;
-    width: 200px;
+    width: 100px;
+    height: auto;
 }
 
 h1 {
