@@ -99,10 +99,21 @@ a:hover {
     text-decoration: underline;
 }
 
+.main-background {
+    width:100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
 .logo {
-    position: fixed;
-    top: 0;
-    left: 0;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+    width:15em; 
+    height: auto;
 }
 
 h1 {
