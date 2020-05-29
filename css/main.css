@@ -100,7 +100,10 @@ a:hover {
 }
 
 logo {
-    font-size: 3.5vw;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
 }
 
 h1 {
