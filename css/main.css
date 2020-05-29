@@ -99,6 +99,10 @@ a:hover {
     text-decoration: underline;
 }
 
+logo {
+    font-size: 3.5vw;
+}
+
 h1 {
     font-family: 'Bebas Nueu', Helvetica, Arial, sans-serif;
     color: rgb(229, 9, 20);   
