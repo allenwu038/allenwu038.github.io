@@ -52,14 +52,14 @@ h1 {
     color: rgb(229, 9, 20);   
 }
 
-h4 {
+p {
     font-size: 2.3vw;
     overflow: scroll;
     color: white ;
 }
 
 @media screen and (min-width: 480px) {
-    h4 {
+    p {
         font-size:16px;
     }
 }
