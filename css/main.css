@@ -60,7 +60,7 @@ li {
 
 header {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
     padding: 8px 10%;
 }
