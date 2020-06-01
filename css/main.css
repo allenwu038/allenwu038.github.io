@@ -16,7 +16,7 @@ body {
 
 .introductionText {
     position: absolute;
-    top: 21%;
+    top: 60px;
     left: 5%;
     width: 50%;
     text-align: left;
@@ -61,7 +61,7 @@ li {
 header {
     display: flex;
     justify-content: left;
-    padding: 0px 20%;
+    padding: 8px 20%;
 }
 
 .nav_links {
@@ -72,7 +72,6 @@ header {
 .nav_links li {
     display: inline-block;
     padding: 0px 20px;
-    margin-left: 20px;
 }
 
 .nav_links li a {
@@ -117,7 +116,7 @@ footer {
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
-  }
+}
 
 .fa:hover {
     opacity: 1;
