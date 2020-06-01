@@ -83,33 +83,9 @@ header {
     color: #e50914;
 }
 
-
-
-/* end nav bar*/
-
-h1 {
-    font-size: 2.5vw;
-    font-family: 'Bebas Nueu', Helvetica, Arial, sans-serif;
-    color: #e50914;   
-}
-
-h2 {
-    font-size: 2.5vw;
-}
-
-h3 {
-    font-size: 2.4vw;
-}
-
-p {
-    font-size: 2.3vw;
-    color: white ;
-}
-
-
-footer {
-    border-top: 0px;
-    font-size: 1.3em;
+buttons {
+    background-color: black;
+    border: none;
 }
 
 .fa {
@@ -154,6 +130,29 @@ footer {
 .fa-github:hover {
     color: black;
 }
+
+
+/* end nav bar*/
+
+h1 {
+    font-size: 2.5vw;
+    font-family: 'Bebas Nueu', Helvetica, Arial, sans-serif;
+    color: #e50914;   
+}
+
+h2 {
+    font-size: 2.5vw;
+}
+
+h3 {
+    font-size: 2.4vw;
+}
+
+p {
+    font-size: 2.3vw;
+    color: white ;
+}
+
 
 /* 
 CSS the Netflix carousel feature
