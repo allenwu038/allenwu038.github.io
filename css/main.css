@@ -60,7 +60,8 @@ li {
 
 header {
     display: flex;
-    justify-content: left;
+    justify-content: space-between;
+    align-items: center;
     padding: 8px 10%;
 }
 
@@ -81,6 +82,8 @@ header {
 .nav_links li a:hover {
     color: #e50914;
 }
+
+
 
 /* end nav bar*/
 
