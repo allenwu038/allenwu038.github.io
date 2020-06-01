@@ -46,6 +46,7 @@ a:hover {
     z-index: 2;
     width:10em; 
     height: auto;
+    margin: 10px;
 }
 
 /* nav bar */
@@ -57,7 +58,7 @@ a:hover {
     background-color: black;
 }
 
-li, a {
+li {
     font-family: 'Bebas Nueu', Helvetica, Arial;
     font-size: 1.5 vw;
     color: white;
@@ -67,11 +68,7 @@ li, a {
 header {
     display: flex;
     justify-content: left;
-    padding: 30px 10%;
-}
-
-.logo {
-    cursor: pointer;
+    padding: 15px 20%;
 }
 
 .nav_links {
