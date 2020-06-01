@@ -16,7 +16,7 @@ body {
 
 .introductionText {
     position: absolute;
-    top: 10%;
+    top: 21%;
     left: 5%;
     width: 50%;
     text-align: left;
@@ -51,13 +51,6 @@ a:hover {
 
 /* nav bar */
 
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    background-color: black;
-}
-
 li {
     font-family: 'Bebas Nueu', Helvetica, Arial;
     font-size: 1.5 vw;
@@ -68,16 +61,18 @@ li {
 header {
     display: flex;
     justify-content: left;
-    padding: 15px 20%;
+    padding: 0px 20%;
 }
 
 .nav_links {
     list-style: none;
+    margin-left: 70px;
 }
 
 .nav_links li {
     display: inline-block;
     padding: 0px 20px;
+    margin-left: 20px;
 }
 
 .nav_links li a {
