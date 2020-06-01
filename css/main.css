@@ -61,7 +61,7 @@ li {
 header {
     display: flex;
     justify-content: left;
-    padding: 8px 20%;
+    padding: 8px 10%;
 }
 
 .nav_links {
@@ -79,7 +79,7 @@ header {
 }
 
 .nav_links li a:hover {
-    color: rgb(229, 9, 20);
+    color: #e50914;
 }
 
 /* end nav bar*/
@@ -87,7 +87,7 @@ header {
 h1 {
     font-size: 2.5vw;
     font-family: 'Bebas Nueu', Helvetica, Arial, sans-serif;
-    color: rgb(229, 9, 20);   
+    color: #e50914;   
 }
 
 h2 {
@@ -124,7 +124,7 @@ footer {
 
 /* Gmail */
 .fa-google {
-    background: rgb(229, 9, 20);
+    background: #e50914;
     color: white;
   }
 
@@ -134,7 +134,7 @@ footer {
 
 /*LinkedIn*/
 .fa-linkedin {
-  background: rgb(229, 9, 20);
+  background: #e50914;
   color: white;
 }
 
@@ -144,7 +144,7 @@ footer {
 
 /*Github*/
 .fa-github {
-    background: rgb(229, 9, 20);
+    background: #e50914;
     color: white;
 }
 
