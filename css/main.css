@@ -16,7 +16,7 @@ body {
 
 .introductionText {
     position: absolute;
-    top: 15%;
+    top: 120px;
     left: 5%;
     width: 50%;
     text-align: left;
