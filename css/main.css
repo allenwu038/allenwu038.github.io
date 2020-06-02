@@ -47,6 +47,7 @@ a:hover {
     width:10em; 
     height: auto;
     margin: 10px;
+    margin-right: auto;
 }
 
 /* nav bar */
@@ -67,7 +68,6 @@ header {
 
 .nav_links {
     list-style: none;
-    margin-left: 70px;
 }
 
 .nav_links li {
@@ -89,12 +89,12 @@ buttons {
 }
 
 .fa {
-    padding: 10px;
-    font-size: 30px;
-    width: 24px;
+    padding: 12px;
+    width: 19px;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
+    margin: 3px;
 }
 
 .fa:hover {
