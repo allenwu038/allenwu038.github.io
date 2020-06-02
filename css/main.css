@@ -214,3 +214,53 @@ Tutorial used found at https://www.raddy.co.uk/blog/netflix-carousel-using-css/
 end of Netflix carousel feature
 */
 
+/* projects table formatting */
+
+TABLE.banner {
+	BORDER-RIGHT: medium none; 
+	TABLE-LAYOUT: fixed; 
+	BORDER-TOP: medium none; 
+	BORDER-LEFT: medium none; 
+	WIDTH: 830px; 
+	BORDER-BOTTOM: medium none; 
+	FONT-FAMILY: sans-serif, arial; 
+	BORDER-COLLAPSE: collapse; 
+	TEXT-ALIGN: left; 
+	border-spacing: none; 
+	empty-cells: show; 
+	padding: 4em;
+}
+
+TD.bar {
+	FONT-SIZE: 12pt; 
+	BACKGROUND: black; 
+	WIDTH: 15px;
+}
+
+.projects {
+	object-fit: cover;
+	object-position: 0 35%;
+	height: 470px;
+	width: 60%;
+	min-width: 400px;
+	max-width: 800px;
+	margin: 0 auto;
+    background-color: #e50914;
+}
+
+/* Three columns side by side */
+.column {
+    float: left;
+	width: 90%;
+	margin-bottom: 16px;
+	padding: 0 7px;
+	align-content: start;
+}
+
+/* Add some shadows to create a card effect */
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	background-color: white;
+}
+  
+  
