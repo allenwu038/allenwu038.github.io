@@ -141,11 +141,13 @@ h1 {
 
 h2 {
     font-size: 2.3vw;
-    color: #e50914; 
+    font-family: 'Bebas Nueu', Helvetica, Arial, sans-serif;
+    color: white; 
 }
 
 h3 {
     font-size: 2.1vw;
+    font-family: 'Bebas Nueu', Helvetica, Arial, sans-serif;
     color: #e50914;
 }
 
