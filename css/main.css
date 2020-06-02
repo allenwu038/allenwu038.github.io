@@ -37,6 +37,7 @@ a:hover {
     position: relative;
     top: 0px;
     left: 0px;
+    margin-bottom: 25px;
 }
 
 .logo {
@@ -141,15 +142,15 @@ h1 {
 }
 
 h2 {
-    font-size: 2.4vw;
+    font-size: 2.3vw;
 }
 
 h3 {
-    font-size: 2.2vw;
+    font-size: 2.1vw;
 }
 
 p {
-    font-size: 1.9vw;
+    font-size: 1.7vw;
     color: white ;
 }
 
