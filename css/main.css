@@ -5,7 +5,7 @@ html {
 body {
     margin: 0;
     background-color: black;
-    min-width: 500px;
+    min-width: 630px;
 }
 
 .introduction {
@@ -16,7 +16,7 @@ body {
 
 .introductionText {
     position: absolute;
-    top: 60px;
+    top: 15%;
     left: 5%;
     width: 50%;
     text-align: left;
