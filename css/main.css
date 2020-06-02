@@ -141,15 +141,15 @@ h1 {
 }
 
 h2 {
-    font-size: 2.5vw;
-}
-
-h3 {
     font-size: 2.4vw;
 }
 
+h3 {
+    font-size: 2.2vw;
+}
+
 p {
-    font-size: 2.3vw;
+    font-size: 1.9vw;
     color: white ;
 }
 
