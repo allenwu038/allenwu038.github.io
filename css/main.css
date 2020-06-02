@@ -41,13 +41,12 @@ a:hover {
 
 .logo {
     position: absolute;
-    top: 5px;
+    top: 20px;
     left: 5px;
     z-index: 2;
     width:10em; 
     height: auto;
     margin: 10px;
-    margin-right: auto;
 }
 
 /* nav bar */
@@ -137,7 +136,7 @@ buttons {
 h1 {
     font-size: 2.5vw;
     font-family: 'Bebas Nueu', Helvetica, Arial, sans-serif;
-    color: #e50914;   
+    color: white;   
 }
 
 h2 {
@@ -147,6 +146,7 @@ h2 {
 
 h3 {
     font-size: 2.1vw;
+    color: #e50914;
 }
 
 p {
