@@ -222,4 +222,8 @@ end of Netflix carousel feature
     flex: 1 1 auto;
 }
 
+.card-text {
+    color: black;
+}
+
   
