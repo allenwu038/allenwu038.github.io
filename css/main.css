@@ -63,7 +63,7 @@ header {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    padding: 8px 10%;
+    padding: 8px 1%;
 }
 
 .nav_links {
@@ -223,7 +223,11 @@ Tutorial used found at https://www.raddy.co.uk/blog/netflix-carousel-using-css/
 end of Netflix carousel feature
 */
 
-/* projects formatting */
+/* projects formatting 
+horizontal cards based on 
+https://codepen.io/SteveJRobertson/pen/POdvgz
+*/
+
 .card-horizontal {
     display: flex;
     flex: 1 1 auto;
