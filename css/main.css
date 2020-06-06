@@ -32,7 +32,8 @@ a:hover {
 
 .main-background {
     width: 100%;
-    height: auto;
+    height: 500px;
+    object-fit: cover;
     position: relative;
     top: 0px;
     left: 0px;
