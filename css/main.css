@@ -152,6 +152,12 @@ h3 {
     color: #e50914;
 }
 
+h4 {
+    font-size: 2vw;
+    font-family: 'Bebas Nueu', Helvetica, Arial, sans-serif;
+    color: #e50914;
+}
+
 p {
     font-size: 1.9vw;
     color: white ;
@@ -227,4 +233,13 @@ end of Netflix carousel feature
     color: black;
 }
 
+.card-body{
+    background-color: #bbb7b7;
+    padding-left:30px;
+    padding-right: 10px;
+}
+
+.card-title {
+    color: black;
+}
   
