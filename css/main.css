@@ -229,6 +229,11 @@ https://codepen.io/SteveJRobertson/pen/POdvgz
 images: 300 x 180
 */
 
+.container-fluid {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
 .card-horizontal {
     display: flex;
     flex: 1 1 auto;
@@ -259,10 +264,8 @@ images: 300 x 180
 
 .flip-card {
     background-color: transparent;
-    width: 300px;
-    height: 200px;
-    border: 1px solid #f1f1f1;
-    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+    width: 400px;
+    height: 400px;
   }
   
   /* This container is needed to position the front and back side */
