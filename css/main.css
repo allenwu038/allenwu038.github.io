@@ -229,6 +229,7 @@ https://codepen.io/SteveJRobertson/pen/POdvgz
 images: 300 x 180
 */
 
+/* 
 .card-horizontal {
     display: flex;
     flex: 1 1 auto;
@@ -247,5 +248,17 @@ images: 300 x 180
 
 .card-title {
     color: black;
+} */
+
+.card-stacked {
+    max-height: 100px;
+    display: inline-block;
+}
+
+.card .card-content {
+    padding: 15px 25px !important;
+}
+.card-action {
+padding: 5px 25px !important;
 }
   
