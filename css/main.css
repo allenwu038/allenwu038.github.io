@@ -250,15 +250,4 @@ images: 300 x 180
     color: black;
 } */
 
-.card-stacked {
-    max-height: 100px;
-    display: inline-block;
-}
 
-.card .card-content {
-    padding: 15px 25px !important;
-}
-.card-action {
-padding: 5px 25px !important;
-}
-  
