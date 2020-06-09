@@ -243,6 +243,7 @@ images: 300 x 180
     background-color: #bbb7b7;
     padding-left:30px;
     padding-right: 10px;
+    height: 400px;
 }
 
 .card-title {
@@ -251,6 +252,35 @@ images: 300 x 180
 
 .card-text {
     overflow: scroll;
-    height: 400px;
+    height: 230px;
 }
 
+.flip {
+    transform: translate(-50%, -50%)
+}
+
+.flip .front,
+.flip .back {
+    transition: 2s;
+    backface-visbility: hidden;
+}
+
+.flip .front {
+    transform: perspective(1000px) rotate(0deg);
+    z-index: 2;
+}
+
+.flip .back {
+    transform: perspective(1000px) rotate(180deg);
+    z-index: 1;
+}
+
+.flip:hover .front {
+    transform: perspective(1000px) rotate(-180deg);
+    z-index: 2;
+}
+
+.flip:hover .back {
+    transform: perspective(1000px) rotate(0deg);
+    z-index: 1;
+}
