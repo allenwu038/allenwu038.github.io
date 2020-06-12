@@ -163,6 +163,12 @@ p {
     color: white ;
 }
 
+footer {
+    bottom: 0;
+    width: 100%;
+    text-align: right;
+}
+
 
 /* 
 CSS the Netflix carousel feature
