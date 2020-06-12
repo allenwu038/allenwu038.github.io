@@ -305,3 +305,8 @@ images: 400x400px, use https://resizeimage.net/
     transform: rotateY(180deg);
   }
 
+/* resume */
+
+.resume-images {
+    margin-left: 12%;
+}
